@@ -126,7 +126,7 @@ This is a **To-Do List Web Application** built as part of the CodingCamp Softwar
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo](https://dandyhuffazichlamsyah.github.io/CodingCamp-5Jan26-DandyHuffaz/)**
+🔗 **[View Live Demo](https://dandyhi.me/To-Do-List-Web-Application/)**
 
 ---
 
@@ -135,10 +135,8 @@ This is a **To-Do List Web Application** built as part of the CodingCamp Softwar
 <div align="center">
 
 ### Desktop View
+![Todo List Screenshot](screenshot.png)
 *Modern dark theme with teal accents*
-
-### Mobile View
-*Fully responsive design*
 
 </div>
 
